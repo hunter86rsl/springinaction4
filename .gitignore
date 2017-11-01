@@ -24,3 +24,9 @@ hs_err_pid*
 /RemoteSystemsTempFiles/
 /Servers/
 /.recommenders/
+*/.settings/
+*/target/
+*/.project
+*/.classpath
+*/.gitignore
+*/.springBeans
